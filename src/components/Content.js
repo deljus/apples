@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Layout as AntdLayout } from 'antd';
 
 export const PageContent = styled.div`
   background: #fff;
