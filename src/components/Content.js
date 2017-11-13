@@ -40,8 +40,3 @@ export const List = styled.ul`
 export const ListItem = styled.li`
   margin-left: 32px;
 `;
-
-export const Layout1 = styled(AntdLayout)`
-  height: '100vh';
-  background: 'white'; 
-`;
